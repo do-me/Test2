@@ -1,9 +1,9 @@
 {
-    "#c1": {
+    "#c2": {
         "text": "Layersteuerung zum An- und Ausschalten einzelner Layer in der Karte",
         "position": "left"
     },
-    "#c2": { 
+    "#c1": { 
         "text": "Navigationsleiste" 
     }
 }
